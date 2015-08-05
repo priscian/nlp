@@ -1,0 +1,617 @@
+From: <Saved by Windows Internet Explorer 7>
+Subject: OpenNLP Tools Models
+Date: Mon, 24 Oct 2011 14:22:52 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CC9258.6A1FAD60"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6109
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CC9258.6A1FAD60
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://opennlp.sourceforge.net/models-1.5/
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!--=0A=
+	Licensed to the Apache Software Foundation (ASF) under one=0A=
+	or more contributor license agreements.  See the NOTICE file=0A=
+	distributed with this work for additional information=0A=
+	regarding copyright ownership.  The ASF licenses this file=0A=
+	to you under the Apache License, Version 2.0 (the=0A=
+	"License"); you may not use this file except in compliance=0A=
+	with the License.  You may obtain a copy of the License at=0A=
+	=0A=
+	http://www.apache.org/licenses/LICENSE-2.0=0A=
+	=0A=
+	Unless required by applicable law or agreed to in writing,=0A=
+	software distributed under the License is distributed on an=0A=
+	"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY=0A=
+	KIND, either express or implied.  See the License for the=0A=
+	specific language governing permissions and limitations=0A=
+	under the License.    =0A=
+--><HTML><HEAD><TITLE>OpenNLP Tools Models</TITLE><!-- Language related =
+information -->
+<META http-equiv=3DContent-Language content=3DEN>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3DEN name=3Dlanguage>
+<META content=3D"OpenNLP, Natural Language, NLP, AI, maxent" =
+name=3Dkeywords><LINK=20
+href=3D"http://opennlp.sourceforge.net/style.css" type=3Dtext/css =
+rel=3Dstylesheet>
+<META content=3D"MSHTML 6.00.6000.17104" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#ffffff>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+  <TBODY>
+  <TR><!--  <td width=3D18%>&nbsp;</td>-->
+    <TD vAlign=3Dtop width=3D"40%"><IMG=20
+      src=3D"http://opennlp.sourceforge.net/onlplogo.jpg"></TD>
+    <TD vAlign=3Dbottom align=3Dright width=3D"47%">
+      <H2>Models for 1.5 series</H2></TD>
+    <TD width=3D"13%">&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE height=3D"100%" cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+  <TBODY>
+  <TR><!--  <td width=3D18%>&nbsp;</td> -->
+    <TD width=3D"12%">&nbsp;</TD>
+    <TD vAlign=3Dtop width=3D"75%">
+      <HR width=3D"100%">
+
+      <P>Use the links in the table below to download the pre-trained =
+models for=20
+      the OpenNLP 1.5 series. </P>
+      <P>The models are language dependent and only perform well if the =
+model=20
+      language matches the language of the input text. Also make sure =
+the input=20
+      text is decoded correctly, depending on the input file encoding =
+this can=20
+      only be done by explicitly specifying the character encoding. See =
+this <A=20
+      =
+href=3D"http://download.oracle.com/javase/tutorial/i18n/text/convertintro=
+.html">Java=20
+      Tutorial</A> section for further details. </P>
+      <P>Note: All models are zip compressed (like a jar file), they =
+<B>must=20
+      not</B> be uncompressed. </P>
+      <TABLE id=3Dmodel-download>
+        <TBODY>
+        <TR>
+          <TH>Language</TH>
+          <TH>Component</TH>
+          <TH>Description</TH>
+          <TH>Download</TH></TR>
+        <TR>
+          <TD>da</TD>
+          <TD>Tokenizer</TD>
+          <TD>Trained on conllx ddt data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/da-token.bin">da-token.=
+bin</A></TD></TR>
+        <TR>
+          <TD>da</TD>
+          <TD>Sentence Detector</TD>
+          <TD>Trained on conllx ddt data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/da-sent.bin">da-sent.bi=
+n</A></TD></TR>
+        <TR>
+          <TD>da</TD>
+          <TD>Part of Speech Tagger</TD>
+          <TD>Maxent model trained on conllx ddt data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/da-pos-maxent.bin">da-p=
+os-maxent.bin</A></TD></TR>
+        <TR>
+          <TD>da</TD>
+          <TD>POS Tagger</TD>
+          <TD>Perceptron model trained on conllx ddt data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/da-pos-perceptron.bin">=
+da-pos-perceptron.bin</A></TD></TR>
+        <TR>
+          <TD>de</TD>
+          <TD>Tokenizer</TD>
+          <TD>Trained on tiger data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/de-token.bin">de-token.=
+bin</A></TD></TR>
+        <TR>
+          <TD>de</TD>
+          <TD>Sentence Detector</TD>
+          <TD>Trained on tiger data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/de-sent.bin">de-sent.bi=
+n</A></TD></TR>
+        <TR>
+          <TD>de</TD>
+          <TD>POS Tagger</TD>
+          <TD>Maxent model trained on tiger corpus.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/de-pos-maxent.bin">de-p=
+os-maxent.bin</A></TD></TR>
+        <TR>
+          <TD>de</TD>
+          <TD>POS Tagger</TD>
+          <TD>Perceptron model trained on tiger corpus.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/de-pos-perceptron.bin">=
+de-pos-perceptron.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Tokenizer</TD>
+          <TD>Trained on opennlp training data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-token.bin">en-token.=
+bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Sentence Detector</TD>
+          <TD>Trained on opennlp training data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-sent.bin">en-sent.bi=
+n</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>POS Tagger</TD>
+          <TD>Maxent model with tag dictionary.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-pos-maxent.bin">en-p=
+os-maxent.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>POS Tagger</TD>
+          <TD>Perceptron model with tag dictionary.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-pos-perceptron.bin">=
+en-pos-perceptron.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Name Finder</TD>
+          <TD>Date name finder model.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-ner-date.bin">en-ner=
+-date.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Name Finder</TD>
+          <TD>Location name finder model.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-ner-location.bin">en=
+-ner-location.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Name Finder</TD>
+          <TD>Money name finder model.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-ner-money.bin">en-ne=
+r-money.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Name Finder</TD>
+          <TD>Organization name finder model.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-ner-organization.bin=
+">en-ner-organization.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Name Finder</TD>
+          <TD>Percentage name finder model.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-ner-percentage.bin">=
+en-ner-percentage.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Name Finder</TD>
+          <TD>Person name finder model.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-ner-person.bin">en-n=
+er-person.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Name Finder</TD>
+          <TD>Time name finder model.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-ner-time.bin">en-ner=
+-time.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Chunker</TD>
+          <TD>Trained on conll2000 shared task data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-chunker.bin">en-chun=
+ker.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Parser</TD>
+          <TD></TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/en-parser-chunking.bin"=
+>en-parser-chunking.bin</A></TD></TR>
+        <TR>
+          <TD>en</TD>
+          <TD>Coreference</TD>
+          <TD></TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.4/english/coref/">coref</=
+A></TD></TR><!-- tr>=0A=
+		<td>es</td>=0A=
+		<td>Tokenizer</td>=0A=
+		<td>Trained on conll02 data.</td>=0A=
+		<td><a href=3D"es-token.bin">de-token.bin</a></td>=0A=
+	</tr>=0A=
+	<tr>=0A=
+		<td>es</td>=0A=
+		<td>Sentence Detector</td>=0A=
+		<td>Trained on conll02 data.</td>=0A=
+		<td><a href=3D"es-sent.bin">es-sent.bin</a></td>=0A=
+	</tr -->
+        <TR>
+          <TD>es</TD>
+          <TD>Name Finder</TD>
+          <TD>Person name finder model. Trained on conll02 shared task=20
+data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/es-ner-person.bin">es-n=
+er-person.bin</A></TD></TR>
+        <TR>
+          <TD>es</TD>
+          <TD>Name Finder</TD>
+          <TD>Organization name finder model. Trained on conll02 shared =
+task=20
+            data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/es-ner-organization.bin=
+">es-ner-organization.bin</A></TD></TR>
+        <TR>
+          <TD>es</TD>
+          <TD>Name Finder</TD>
+          <TD>Location name finder model. Trained on conll02 shared task =
+
+          data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/es-ner-location.bin">es=
+-ner-location.bin</A></TD></TR>
+        <TR>
+          <TD>es</TD>
+          <TD>Name Finder</TD>
+          <TD>Misc name finder model. Trained on conll02 shared task =
+data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/es-ner-misc.bin">es-ner=
+-misc.bin</A></TD></TR>
+        <TR>
+          <TD>nl</TD>
+          <TD>Tokenizer</TD>
+          <TD>Trained on conllx alpino data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/nl-token.bin">nl-token.=
+bin</A></TD></TR>
+        <TR>
+          <TD>nl</TD>
+          <TD>Sentence Detector</TD>
+          <TD>Trained on conllx alpino data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/nl-sent.bin">nl-sent.bi=
+n</A></TD></TR>
+        <TR>
+          <TD>nl</TD>
+          <TD>Name Finder</TD>
+          <TD>Person name finder model. Trained on conll02 shared task=20
+data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/nl-ner-person.bin">nl-n=
+er-person.bin</A></TD></TR>
+        <TR>
+          <TD>nl</TD>
+          <TD>Name Finder</TD>
+          <TD>Organization name finder model. Trained on conll02 shared =
+task=20
+            data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/nl-ner-organization.bin=
+">nl-ner-organization.bin</A></TD></TR>
+        <TR>
+          <TD>nl</TD>
+          <TD>Name Finder</TD>
+          <TD>Location name finder model. Trained on conll02 shared task =
+
+          data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/nl-ner-location.bin">nl=
+-ner-location.bin</A></TD></TR>
+        <TR>
+          <TD>nl</TD>
+          <TD>Name Finder</TD>
+          <TD>Misc name finder model. Trained on conll02 shared task =
+data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/nl-ner-misc.bin">nl-ner=
+-misc.bin</A></TD></TR>
+        <TR>
+          <TD>nl</TD>
+          <TD>POS Tagger</TD>
+          <TD>Maxent model trained on conllx alpino data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/nl-pos-maxent.bin">nl-p=
+os-maxent.bin</A></TD></TR>
+        <TR>
+          <TD>nl</TD>
+          <TD>POS Tagger</TD>
+          <TD>Perceptron model trained on conllx alpino data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/nl-pos-perceptron.bin">=
+nl-pos-perceptron.bin</A></TD></TR>
+        <TR>
+          <TD>pt</TD>
+          <TD>Tokenizer</TD>
+          <TD>Trained on conllx bosque data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/pt-token.bin">pt-token.=
+bin</A></TD></TR>
+        <TR>
+          <TD>pt</TD>
+          <TD>Sentence Detector</TD>
+          <TD>Trained on conllx bosque data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/pt-sent.bin">pt-sent.bi=
+n</A></TD></TR>
+        <TR>
+          <TD>pt</TD>
+          <TD>POS Tagger</TD>
+          <TD>Maxent model trained on conllx bosque data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/pt-pos-maxent.bin">pt-p=
+os-maxent.bin</A></TD></TR>
+        <TR>
+          <TD>pt</TD>
+          <TD>POS Tagger</TD>
+          <TD>Perceptron model trained on conllx bosque data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/pt-pos-perceptron.bin">=
+pt-pos-perceptron.bin</A></TD></TR>
+        <TR>
+          <TD>se</TD>
+          <TD>Tokenizer</TD>
+          <TD>Trained on conllx talbanken05 data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/se-token.bin">se-token.=
+bin</A></TD></TR>
+        <TR>
+          <TD>se</TD>
+          <TD>Sentence Detector</TD>
+          <TD>Trained on conllx talbanken05 data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/se-sent.bin">se-sent.bi=
+n</A></TD></TR>
+        <TR>
+          <TD>se</TD>
+          <TD>POS Tagger</TD>
+          <TD>Maxent model trained on conllx talbanken05 data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/se-pos-maxent.bin">se-p=
+os-maxent.bin</A></TD></TR>
+        <TR>
+          <TD>se</TD>
+          <TD>POS Tagger</TD>
+          <TD>Perceptron model trained on conllx talbanken05 data.</TD>
+          <TD><A=20
+            =
+href=3D"http://opennlp.sourceforge.net/models-1.5/se-pos-perceptron.bin">=
+se-pos-perceptron.bin</A></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D"13%">&nbsp;</TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01CC9258.6A1FAD60
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://opennlp.sourceforge.net/onlplogo.jpg
+
+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
+AooooAooooAooooAooooAooooAooooAooooAooooAooooAooooAooooAooooD//Z
+
+------=_NextPart_000_0000_01CC9258.6A1FAD60
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://opennlp.sourceforge.net/style.css
+
+BODY {
+	BACKGROUND: white; COLOR: black; FONT-FAMILY: arial, times, Helvetica, =
+sans-serif; size: 11pt
+}
+H1 {
+	FONT-SIZE: 18pt; COLOR: #006699; FONT-FAMILY: Verdana, Arial, =
+Helvetica, sans-serif
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #006699; FONT-FAMILY: =
+Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-SIZE: 10pt; COLOR: #006699; FONT-FAMILY: Verdana, Arial, =
+Helvetica, sans-serif; TEXT-ALIGN: right
+}
+H4 {
+	COLOR: black; FONT-FAMILY: arial, times, Helvetica, sans-serif; size: =
+10pt
+}
+A {
+	FONT-FAMILY: arial,times
+}
+P {
+	FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, =
+Helvetica, sans-serif
+}
+TABLE {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; BORDER-LEFT: 0px; =
+BORDER-BOTTOM: 0px
+}
+TD {
+	FONT-SIZE: 12pt; FONT-FAMILY: Bookman,Lucida, Helvetica,arial, times
+}
+TD.header1 {
+	FONT-SIZE: 12pt; BACKGROUND: #52a0ef; FONT-FAMILY: Bookman,Lucida, =
+Helvetica,arial, times
+}
+TD.banner {
+	FONT-SIZE: 12pt; BACKGROUND: white; FONT-FAMILY: Bookman,Lucida, =
+Helvetica,arial, times
+}
+TD.header2 {
+	FONT-SIZE: 12pt; BACKGROUND: #52a0ef; FONT-FAMILY: Bookman,Lucida, =
+Helvetica,arial, times
+}
+TABLE#model-download {
+	BORDER-RIGHT: #006699 2px solid; BORDER-TOP: #006699 2px solid; =
+MARGIN-TOP: 20px; BORDER-LEFT: #006699 2px solid; COLOR: black; =
+BORDER-BOTTOM: #006699 2px solid; BORDER-COLLAPSE: collapse
+}
+TABLE#model-download TD {
+	BORDER-RIGHT: #006699 1px solid; PADDING-RIGHT: 0.3em; BORDER-TOP: =
+#006699 1px solid; PADDING-LEFT: 0.3em; PADDING-BOTTOM: 0.3em; =
+BORDER-LEFT: #006699 1px solid; COLOR: black; PADDING-TOP: 0.3em; =
+BORDER-BOTTOM: #006699 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE#model-download TH {
+	BORDER-RIGHT: #006699 1px solid; PADDING-RIGHT: 0.3em; BORDER-TOP: =
+#006699 1px solid; PADDING-LEFT: 0.3em; FONT-SIZE: 14pt; BACKGROUND: =
+white; PADDING-BOTTOM: 0.3em; BORDER-LEFT: #006699 1px solid; COLOR: =
+#006699; PADDING-TOP: 0.3em; BORDER-BOTTOM: #006699 1px solid; =
+FONT-FAMILY: Bookman,Lucida, Helvetica,arial, times
+}
+
+------=_NextPart_000_0000_01CC9258.6A1FAD60--
